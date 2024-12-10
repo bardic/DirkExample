@@ -1,0 +1,13 @@
+{
+  "name": "DirkExample",
+  "engineVersion": "v0.14.0",
+  "sdk": "go",
+  "dependencies": [
+    {
+      "name": "Dirk",
+      "source": "https://github.com/bardic/Dirk@0.1.0",
+      "pin": "add7dc790bc16ef3c336f65aefa0038691b26631"
+    }
+  ],
+  "source": ".dagger"
+}
